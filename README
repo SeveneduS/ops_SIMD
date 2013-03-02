@@ -1,0 +1,8 @@
+Oracle passwords (DES) solver (SSE2/AVX)
+
+This is fastest known DES-based (pre-11g) Oracle RDBMS passwords bruteforcer 
+utilizing SSE2/AVX instruction set.
+
+http://conus.info/utils/ops_SIMD/
+
+-- dennis@conus.info
