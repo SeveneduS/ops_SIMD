@@ -1,9 +1,6 @@
 // This software may be modified, redistributed, and used for any purpose,
 // so long as its origin is acknowledged.
 
-#define USE_AVX
-//#define USE_SSE2
-
 //#define DEMO
 
 //#define MAX_THREADS 4
