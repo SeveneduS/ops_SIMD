@@ -1023,7 +1023,7 @@ void check(struct hash* hashes, char *uname, int pass_len, char *first_symbol_ch
 		printf ("~ %I64d", encrypted_total / elapsed);
 #endif
 #ifdef linux
-		printf ("~ %lld", encrypted_total / elapsed);
+		printf ("~ %lld", encrypted_total / elapsed); // TODO: PRId64
 #endif
 		printf (" passwords/hashes per second\n");
 	};

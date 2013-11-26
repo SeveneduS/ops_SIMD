@@ -13,6 +13,9 @@ Speed (uname=SYS, 7-symbol passwords): 37M password/hashes per second
 Intel® Core™ i7-980X Processor Extreme Edition 3886 MHz (overclocked):
 Speed (uname=SYS, 7-symbol passwords): 42M password/hashes per second
 
+Intel Core i7 3930k 3.2GHz
+Speed (AVX mode) (uname=XXXX (4 symbols), 7-symbol passwords): 62M password/hashes per second
+
 * Quad Core:
 
 Intel Xeon X3430 (2.4 GHz)
